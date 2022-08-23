@@ -1,31 +1,21 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import Navbar from './components/home';
+import Home from './components/home';
+import About from './components/about';
+import Skills from './components/skills';
+import Projects from './components/projects';
+import Contact from './components/contact';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <nav>
-          {/* logo */}
-          <div>
-            Andrew
-          </div>
-
-          <div>
-            <ul>
-              <li><a href='#'>Home</a></li>
-              <li><a href='#'>About</a></li>
-              <li><a href='#'>Skills</a></li>
-              <li><a href='#'>Projects</a></li>
-              <li><a href='#'>Contact</a></li>
-
-            </ul>
-
-          </div>
-        </nav>
-        
-        
-      </header>
+    <div>
+      <Navbar />
+      <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
     </div>
   );
 }
