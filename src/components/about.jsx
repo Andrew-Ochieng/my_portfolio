@@ -11,13 +11,13 @@ const About = () => {
           <div></div>  </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-6'>
             <div className='sm:text-right text-4xl font-bold text-[#f4db7d]'>
-              <p>Andrew is fueled by her passion for understanding the foundation of frontend development. </p> 
+              <p>Andrew is fueled by his passion for understanding the foundation of software development. </p> 
             </div>
             <div>
               <p className= 'text-[#9daaf2]' >
-                Andrew's hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group. There, she led international award-winning campaigns for heavy-hitting brands such as Puma, Gucci, and Rolex. She considers herself a `forever student`, eager to both build on her academic foundations.
+                Andrew's hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group. There, he led international award-winning campaigns for heavy-hitting brands such as Puma, Gucci, and Rolex. he considers miself a `forever student`, eager to both build on his academic foundations.
 
-                Meanwhile, she vastly improved the productivity of her department by implementing strategic project management methods and ensuring a work-life balance for her team. Madison believes mindfulness in the workplace is key to success, a tenet she lives out through her interests in yoga, meditation, gardening, and painting. 
+                Meanwhile, he vastly improved the productivity of his department by implementing strategic project management methods and ensuring a work-life balance for his team. Madison believes mindfulness in the workplace is key to success, a tenet he lives out through his interests in yoga, meditation, gardening, and painting. 
               </p>
             </div>
             </div>

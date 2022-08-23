@@ -9,7 +9,7 @@ import Netflix from '../assets/netflix.jpeg';
 const Projects = () => {
   return (
     <div name='projects' className='w-full h-screen text-[#9daaf2] bg-[#1a2238]'>
-      <div className='max-w-[1000px] mt-[150px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+      <div className='max-w-[1000px] md:pt-0 pt-[500px] md:pb-0 pb-[150px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-[#ff6a3d] border-[#f4db7d]'>
             Projects
@@ -17,7 +17,7 @@ const Projects = () => {
           <p className='py-6'>Check out some of my recent working projects</p>
         </div>
 
-{/* Container */}
+        {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
             {/* Grid Item */}
@@ -27,8 +27,8 @@ const Projects = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-[#9daaf2] tracking-wider'>
-                Facebook Clone 
+              <span className='text-2xl font-bold text-[#9daaf2] tracking-wider m-2'>
+                Codial Solutions Site 
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>

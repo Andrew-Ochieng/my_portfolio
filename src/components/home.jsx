@@ -9,9 +9,9 @@ const Home = () => {
            <p className='text-[#ff6a3d]' >Hi, My name is</p> 
            <h1 className='text-4xl sm:text-7xl font-bold text-[#9daaf2]' >Andrew Ochieng</h1> <br />
            <h2 className='text-2xl sm:text-5xl font-bold text-[#9daaf2]' >Front end developer </h2> <br />
-           <h2 className='py-4 max-w-[700px] text-[#fff]' >I'am seeking an entry-level front end developer role with Minerva Technology Solutions where I can utilise my BSc degree in computer science and my strong analytical skills to be a valuable asset to the company. </h2> <br />
+           <h2 className='py-4 max-w-[700px] text-[#fff]' >I'am seeking an entry-level front end developer role or ui/ux design with Microsoft Kenya where I can utilise my skills in Software Development and my strong analytical skills which would to be a valuable asset to the company. </h2> <br />
            <div>
-            <button className='text-[#FF6A3D] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#9daaf2] hover:border-[#ff6a3d]' >View Projects
+            <button className='text-[#FF6A3D] group border-2 rounded-md px-6 py-3 my-2 flex items-center hover:bg-[#9daaf2] hover:border-[#ff6a3d]' >View Projects
                 {/* <span className='group-hover:rotate-90 duration-300' ><HiArrowNarrowRight className='ml-3'/></span> */}
             </button>
            </div>
